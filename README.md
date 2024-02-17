@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Veereshdoddamani
+- 👋 Hi, I’m Veeresh Doddamani
 - 👀 I’m interested in HTML,C,CSS
 - 👨‍💻 I’m currently learning C++
 - 📫 you can reach me @ RNS Institute of Technology
