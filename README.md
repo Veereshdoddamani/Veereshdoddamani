@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML,C,CSS
 - 👨‍💻 I’m currently learning C++
 - 📫 you can reach me @ RNS Institute of Technology
-- I use 💻 Windows. 
+- I use 💻 Windows 11.
 
 <!---
 Veereshdoddamani/Veereshdoddamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
