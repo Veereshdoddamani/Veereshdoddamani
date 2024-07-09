@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veeresh Doddamani
-- 👀 I’m interested in HTML,C,CSS
-- 👨‍💻 I’m currently learning C++
+- 👀 I’m interested in HTML,C,CSS,c++
+- 👨‍💻 I’m currently learning JS
 - 📫 you can reach me @ RNS Institute of Technology
 - I use 💻 Windows 11.
 
