@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Veeresh Doddamani
-- 👀 I’m interested in HTML,C,CSS,c++
-- 👨‍💻 I’m currently learning JS
-- 📫 you can reach me @ RNS Institute of Technology
-- I use 💻 Windows 11.
-
-<!---
-Veereshdoddamani/Veereshdoddamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Veeresh Doddamani.
+🎓 A passionate Computer Science Engineering student at RNS Institute of Technology.
+💡 Interested in HTML, CSS, JavaScript, C, and Java.
+🚀 I enjoy building creative and efficient web projects.
+🌱 I love exploring new technologies to enhance my development skills.
+💻 I currently use Windows 11 for all my development work.
+🤝 You can reach me at RNS Institute of Technology for collaboration or discussions on tech and coding.
